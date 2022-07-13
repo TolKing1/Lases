@@ -1,0 +1,16 @@
+  
+  h1 {
+    color: blue;
+  }
+  
+  .sorovnoma {
+    font-size: 20px;
+    border-radius: 10px;
+    text-decoration-color: green;
+  }
+  .login{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
